@@ -1,7 +1,7 @@
 # OverTheWire Bandit: Complete Walkthrough (Level 0 ➜ 34) 
 
 <p align="center">
-    <img src= "OverthewireSS.png" alt="Bandit Login Screen" />
+    <img src= "assets/OverthewireSS.png" alt="Bandit Login Screen" />
 </p>
 
 > ### This repository serves as my personal lab and learning log as I build my Linux CLI navigation from the ground up through **OverTheWire: Bandit**. Every level's walkthrough includes: 
