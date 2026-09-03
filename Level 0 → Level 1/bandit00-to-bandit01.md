@@ -37,7 +37,20 @@ cat readme
     <img src= "../assets/Level 0 -> Level 1/step3.png" />
 </p>
 
-Finally we get the password for user `bandit1` which is `6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR`.
+Finally we get the password for user `bandit1` which is 
+
+
+<details>
+  <summary>Click to reveal spoiler</summary>
+  <br>
+  <div align="center">
+
+  ### `6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR`
+
+  </div>
+</details>
+
+---
 
 ### **💡 Key takeaways:**
 
