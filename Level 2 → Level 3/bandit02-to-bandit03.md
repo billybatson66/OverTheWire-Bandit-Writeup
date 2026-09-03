@@ -17,7 +17,7 @@ cat ./"--spaces in this filename--"
     <img src= "../assets/Level 2 -> Level 3/step1.png" />
 </p>
 
-Finally we get the password for user `bandit1` which is 
+Finally we get the password for user `bandit2` which is 
 
 
 <details>
